@@ -1,4 +1,4 @@
-# csscrashcourse
+# CSS Crash Course
 ## Overview
 Hands-on coding exercises to learn CSS (Cascading Style Sheets) by following [CSS Crash Course For Absolute Beginners](https://www.youtube.com/watch?v=yfoY53QXEnI&t=1s)
 
@@ -85,4 +85,3 @@ Shorthand for top/bottom is the same and right/left is the same:
 * Fixed
 * Initial
 * Inherit
-
