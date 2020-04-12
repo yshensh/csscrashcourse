@@ -49,6 +49,7 @@ Note: try to keep the presentation, functionality and styling completely seperat
 
 ## Margin & Padding Shorthand
 Syntax:
+
     p {
         margin-top:5px;
         margin-bottom:5px;
@@ -57,6 +58,7 @@ Syntax:
     }
 
 Shorthand:
+
     p {
         margin: (top) (right) (bottom) (left);
     }
@@ -66,6 +68,7 @@ Shorthand:
     }
 
 Shorthand for top/bottom is the same and right/left is the same:
+
     p {
         margin: (top/bottom) (right left);
     }
@@ -73,7 +76,6 @@ Shorthand for top/bottom is the same and right/left is the same:
     p {
         margin: 5px 10px;
     }
-
     
 
 ## Positioning in CSS
@@ -83,5 +85,4 @@ Shorthand for top/bottom is the same and right/left is the same:
 * Fixed
 * Initial
 * Inherit
-
 
