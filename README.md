@@ -9,7 +9,7 @@ The video is about 1 hour and half long, which covers styles, selectora, declara
 CSS is a style sheet language NOT a programming language. It is used for website layout and design.
 
 
-# Methods For Adding CSS
+## Methods For Adding CSS
 * Inline CSS: Directly in the html (not recommended)
 * Internal CSS: Using `<style>` tags within a single document (not recommended)
 * External CSS: Linking an external .css file (recommended)
@@ -17,11 +17,11 @@ CSS is a style sheet language NOT a programming language. It is used for website
 Note: try to keep the presentation, functionality and styling completely seperate or as much as possible.
 
 
-# CSS Selector
+## CSS Selector
 `selector { property: value; }`
 
 
-# Colors In CSS
+## Colors In CSS
 * Color Names
 * HTML5 Color names
 * Hexadecimal
